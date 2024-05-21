@@ -2,6 +2,11 @@ Linuxで使用される主なソフトウェアパッケージング形式（Deb
 
 ![](https://raw.githubusercontent.com/yKesamaru/flatpak_vs_snap/master/img/flatpak_vs_snap.png)
 
+> Snap及びFlatpakの日本語入力については[日本語入力周りの整理・まとめ](https://zenn.dev/ykesamaru/articles/95ad7355c9bbba)をご参照ください。
+
+https://zenn.dev/ykesamaru/articles/95ad7355c9bbba
+
+
 # 主なパッケージング形式
 ## **DebとRPM**
 DebianやUbuntu、Fedora、Red Hatなどで使用される。高速で効率的。依存関係の問題があるので、最新のアプリケーションは使用できない。自動アップデートあり。
